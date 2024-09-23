@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/indraRonin/indraRonin/blob/main/hello3.gif" alt="indraronin" /></a> </p>
 
-- 🔭 I’m currently learning **NEXT JS and Tailwind CSS**
+- 🔭 I’m currently Working on **Full Stack Registration Page using MERN stack**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, NEXT.js and Tailwind CSS**
 
 - 💬 Ask me about **MERN & MEAN**
 

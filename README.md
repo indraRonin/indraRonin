@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indraronin&show_icons=true&locale=en" alt="indraronin" /></p>
 
+[![@indraronin's Holopin badges](https://holopin.me/indraronin)](https://holopin.io/@indraronin)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indraronin&" alt="indraronin" /></p>
